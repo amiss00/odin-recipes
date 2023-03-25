@@ -1,0 +1,35 @@
+html {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.header {
+    color: rgb(94, 238, 171);
+    font-family: Papyrus, sans-serif;
+}
+
+.lgreen-text {
+    color: rgb(94, 238, 171);
+}
+
+img {
+    border-radius: 3px;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+li {
+    color: pink;
+}
+
+.food {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+a {
+    color: rgb(94, 238, 171);
+}
